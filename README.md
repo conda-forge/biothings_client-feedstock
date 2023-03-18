@@ -1,11 +1,11 @@
-About biothings_client
-======================
+About biothings_client-feedstock
+================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/biothings_client-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/biothings/biothings_client.py
 
 Package license: BSD-2-Clause
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/biothings_client-feedstock/blob/main/LICENSE.txt)
 
 Summary: Python Client for BioThings API services.
 
