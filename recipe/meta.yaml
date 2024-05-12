@@ -1,5 +1,5 @@
 {% set name = "biothings_client" %}
-{% set version = "0.2.6" %}
+{% set version = "0.3.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/biothings_client-{{ version }}.tar.gz
-  sha256: 84d9d577b8fb3963a2fa71c5a13b10411566f3bc2e8ba67bb15de9d2ced08c2d
+  sha256: ac96eea62f3b8cdba9ad35a34ac787516f1aa89dd1cc860f7f9734e77d789018
 
 build:
   noarch: python
