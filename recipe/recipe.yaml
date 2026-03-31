@@ -1,6 +1,6 @@
 context:
   name: biothings_client
-  version: 0.4.1
+  version: "0.5.0"
 
 package:
   name: ${{ name|lower }}
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/${{ name[0] }}/${{ name }}/biothings_client-${{ version }}.tar.gz
-  sha256: 5b34e09c905280b5bd2538f1f34b6fc780c53c8da9b4074e3ff304836046f613
+  sha256: f9fddc7436d59bcde4f9a2501431fc744d142062ac4796585470adca29c59ed4
 
 build:
   number: 0
